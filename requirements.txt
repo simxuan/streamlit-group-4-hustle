@@ -1,9 +1,11 @@
-import streamlit as st
-import numpy as np 
-import pandas as pd
-import seaborn as sns 
-import matplotlib.pyplot as plt
-import plotly.offline as py
+streamlit
+numpy>=1.19.5 
+pandas>=1.3.1
+seaborn>=0.11.1
+matplotlib>=3.4.2
+scikit-learn>=0.42.2
+metrics>=
+
 from PIL import Image
 from sklearn import preprocessing
 from sklearn.preprocessing import LabelEncoder
